@@ -1,0 +1,5 @@
+{
+  "next-page-css-selector": "body > div.container.main-wrap > div > div.col-xs-12.col-sm-8.col-md-9 > div.block-pagination > ul > li:nth-child(11) > span > a",
+  "detail-url-css-selector": "body > div.container.main-wrap > div > div.col-xs-12.col-sm-8.col-md-9 > div.row.categories-index > div > article > h3 > a",
+  "initial-url": "http://www.mmediu.ro/categories/view/proiecte-de-acte-normative/41/page:1"
+}

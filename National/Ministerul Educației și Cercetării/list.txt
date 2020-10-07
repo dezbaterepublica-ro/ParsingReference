@@ -1,0 +1,4 @@
+{
+  "detail-url-css-selector": "#content > div > div.view.view-bottom-boxes.view-id-bottom_boxes > div > div.views-row > article > header > h2 > a",
+  "initial-url": "https://www.edu.ro/dezbatere-publica"
+}

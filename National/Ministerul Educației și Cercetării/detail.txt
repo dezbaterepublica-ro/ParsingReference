@@ -1,0 +1,9 @@
+{
+  "publish-date-css-selector": "#content > div > div.field.field-name-field-data-publicarii.field-type-datetime.field-label-inline.clearfix > div.field-items > div > span",
+  "attachments": {
+    "title-css-selector": "#content > div > article > div.field.field-name-field-arhiva.field-type-file.field-label-above > div.field-items > div > span > a",
+    "link-css-selector": "#content > div > article > div.field.field-name-field-arhiva.field-type-file.field-label-above > div.field-items > div > span > a"
+  },
+  "description-css-selector": "#content > div > article > div.field.field-name-body.field-type-text-with-summary.field-label-hidden > div",
+  "title-css-selector": "#page-title"
+}

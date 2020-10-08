@@ -1,0 +1,4 @@
+{
+  "detail-url-css-selector": "#post-561 > div > ul.lcp_catlist > li > h3 > a",
+  "initial-url": "http://www.just.ro/transparenta-decizionala/acte-normative/proiecte-in-dezbatere/"
+}

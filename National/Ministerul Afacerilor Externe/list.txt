@@ -1,0 +1,11 @@
+{
+  "initial-url": "https://mae.ro/node/2011",
+  "details": {
+    "url-css-selector-relative": "tbody > tr:nth-child(1) > td:nth-child(1) > p:nth-child(1) > a",
+    "attachment-css-selector-relative": "a",
+    "main-css-selector": "body > div.container > div.right > div.ek_content > div.content_left.clear_padd > div.content_left_part_big > div > table",
+    "contact-css-selector": "tbody > tr:last-child > td > p:nth-child(1)",
+    "publish-date": "tbody > tr:last-child > td > p:nth-child(2)",
+    "title-css-selector-relative": "tbody > tr:nth-child(1) > td:nth-child(1)"
+  }
+}

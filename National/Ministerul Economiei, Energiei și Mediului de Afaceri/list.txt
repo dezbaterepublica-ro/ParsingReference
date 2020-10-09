@@ -1,0 +1,10 @@
+{
+  "initial-url": "http://www.economie.gov.ro/transparenta-decizionala/proiecte-in-dezbatere-publica",
+  "page-css-selector": " div.pagination > ul > li > a",
+  "details": {
+    "attachment-css-selector-relative": " ul > li > a",
+    "main-css-selector": "body > div.maincontainer > div.container.container_functionar.top_container > div.blog > div > div > div",
+    "contact-email-static": "dezbateri_publice@economie.gov.ro",
+    "title-css-selector-relative": "b"
+  }
+}

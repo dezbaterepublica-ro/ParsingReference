@@ -1,0 +1,11 @@
+{
+  "initial-url": "http://www.mfinante.ro/pagina.html?categoriebunuri=proiecte-acte-normative&pagina=acasa&locale=ro&menu=Transparenta",
+  "page-css-selector": "a.pagnr",
+  "details": {
+    "url-css-selector-relative": "a.downlDOC",
+    "attachment-css-selector-relative": "a.downlDOC",
+    "main-css-selector": "#paginaList > tbody > tr > td > div",
+    "contact-email-static": "publicinfo@mfinante.gov.ro",
+    "title-css-selector-relative": "p"
+  }
+}

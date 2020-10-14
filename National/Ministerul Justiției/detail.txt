@@ -1,0 +1,4 @@
+{
+  "description-css-selector": "#post-33208 > div.post-inner-content > div",
+  "title-css-selector": "#post-33208 > div.post-inner-content > header > h1"
+}

@@ -1,0 +1,5 @@
+{
+  "publish-date-css-selector": "body > div.container.main-wrap > div > div.col-xs-12.col-sm-8.col-md-9.article-view > div.date > div > div:nth-child(1)",
+  "description-css-selector": "body > div.container.main-wrap > div > div.col-xs-12.col-sm-8.col-md-9.article-view > div.text",
+  "title-css-selector": "body > div.container.main-wrap > div > div.col-xs-12.col-sm-8.col-md-9.article-view > h1"
+}

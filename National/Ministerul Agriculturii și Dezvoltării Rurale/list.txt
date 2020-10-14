@@ -1,0 +1,10 @@
+{
+  "initial-url": "https://www.madr.ro/proiecte-de-acte-normative.html",
+  "page-css-selector": "#k2Container > div.k2Pagination > div.k2PaginationLinks > ul > li > a",
+  "details": {
+    "attachment-css-selector-relative": " div.catItemLinks > div.catItemAttachmentsBlock > ul > li > a",
+    "main-css-selector": "#itemListPrimary > div > div > div.catItemBody > div.catItemIntroText > p",
+    "contact-email-static": "",
+    "title-css-selector-relative": "b"
+  }
+}

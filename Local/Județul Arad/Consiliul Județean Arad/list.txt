@@ -1,0 +1,4 @@
+{
+  "detail-url-css-selector": "#pagContext > div.colRight > div > a",
+  "initial-url": "http://www.cjarad.ro/transparenta/7/"
+}

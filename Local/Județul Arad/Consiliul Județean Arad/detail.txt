@@ -1,0 +1,9 @@
+{
+  "publish-date-format-static": "d\\.m\\=.Y",
+  "publish-date-css-selector": "#pagContext > div.colRight > div.xSlogan",
+  "attachments": {
+    "link-css-selector": "#pagContext > div.colRight > div.divAttachList > div > span.nDown > a",
+    "title-css-selector": "#pagContext > div.colRight > div.divAttachList > div > span.nFile2"
+  },
+  "title-css-selector": "#pagContext > div.colRight > h1"
+}

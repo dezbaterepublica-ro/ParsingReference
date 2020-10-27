@@ -20,7 +20,7 @@ Indicatii pentru robotul automat de parsare a dezbaterilor publice
 | Entity | Example Formats |
 | ------ | --------------- |
 | Primarie | Primaria Municipiului Cluj-Napoca, Primaria Comunei Bragadiru |
-| Consilii judetene | Consiliul Judetean Arad |
+| Consilii judetene | Consiliul Județean Arad |
 
 # Fisierele din folderul unei autoritati publice
 
@@ -30,6 +30,8 @@ Formatul fisierelor este [JSON](https://www.json.org/json-ro.html). [Link catre 
 | ---- | ----------- |
 | list.txt | Instructiuni specifice descoperirii listei de dezbateri publice; contine pagina de inceput a scanarii, elementele link catre pagina de detaliu a dezbateri publice, elemente de paginare pentru indexarea tuturor paginilor |
 | detail.txt | Instructiuni specifice elementelor dezbaterii publice; contine elementele dezbaterii publice din pagina de detaliu |
+
+Daca un singur element este necesar si selectorul returneaza mai multe elemente, daca acel selector este specific unui element ce are nevoie de textContent, se va extrage tot textContentul din toate elementele returnate. 
 
 # Elemente list.txt
 | Element | Tip | Descriere |

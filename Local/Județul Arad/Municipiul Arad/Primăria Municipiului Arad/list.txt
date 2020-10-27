@@ -1,0 +1,4 @@
+{
+  "detail-url-css-selector": "#maxTileTD > a",
+  "initial-url": "http://www.primariaarad.ro/stiri.php?catid=16"
+}
